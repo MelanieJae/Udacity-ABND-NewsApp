@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NewsFeedApp</string>
+    <string name="empty_list_view">No stories are available</string>
+</resources>
