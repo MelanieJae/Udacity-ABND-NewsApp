@@ -62,10 +62,6 @@ public class MainActivity extends AppCompatActivity
 
     }
 
-//    onLoadFinished
-//            Adapter constructor here, no separate class
-//
-//            onLoadReset
 
 
 }
